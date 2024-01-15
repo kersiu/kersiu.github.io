@@ -1621,3 +1621,17 @@ blockquote {
   height: 0.7rem;
   background-color: #0078ff;
 }
+
+.skill-mf {
+  display: flex;
+  justify-content: space-between;
+}
+
+.column {
+  flex: 1;
+  max-width: 45%; /* Adjust the width as needed */
+}
+
+.skill-bar {
+  margin-bottom: 20px;
+}
