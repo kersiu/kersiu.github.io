@@ -270,7 +270,7 @@ p {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #b8a07e;
+  color: #a865b5;
 }
 
 .navbar .dropdown ul {
@@ -564,7 +564,7 @@ p {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #a865b5;
 }
 
 #about .div-img-bg .about-img img {
@@ -1568,17 +1568,16 @@ blockquote {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #ffb727;
+  color: #ca8dfd;
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
   background: #eef0f2;
-  padding: 5px 15px;
+  padding: 5px 5px;
   display: inline-block;
   font-weight: 600;
-  margin-bottom: 10px;
 }
 
 .resume .resume-item ul {
@@ -1619,7 +1618,7 @@ blockquote {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #cea2fd;
 }
 
 .skill-mf {
