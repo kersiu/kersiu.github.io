@@ -669,7 +669,7 @@ p {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #a865b5;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -712,12 +712,12 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #666;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: #999;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -1629,4 +1629,14 @@ blockquote {
 
 .skill-bar {
   margin-bottom: 20px;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: #a865b5;
+  font-weight: bold;
+}
+
+.link {
+  color: #cea2fd;
 }
